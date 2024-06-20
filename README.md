@@ -1,6 +1,6 @@
 # auto-green
 
-[![Build Status](https://github.com/tiny-wei/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/tiny-wei/auto-green/actions)
+![Build Status](https://github.com/tiny-wei/auto-green/actions/workflows/ci.yml/badge.svg?branch=main)
 
 自动保持 GitHub 提交状态常绿。
 
